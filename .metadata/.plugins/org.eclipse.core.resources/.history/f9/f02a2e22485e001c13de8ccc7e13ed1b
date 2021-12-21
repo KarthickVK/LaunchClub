@@ -1,0 +1,24 @@
+package com.example.User;
+import java.util.List;
+
+import dao.RegisterDao;
+import entity.Register;
+
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class UserApplication {
+
+	public static void main(String[] args) {
+        RegisterDao registerDao = new RegisterDao();
+        Register register = new Register("Ramesh", "Fadatare", "rameshfadatare@javaguides.com", null, null, null, null, null, null, null);
+        registerDao.saveStudent(register);
+
+        List < Register > register1 = registerDao.getStudents();
+        
+		register1.forEach(s - > System.out.println(s.getFirstName()));
+	}
+
+}

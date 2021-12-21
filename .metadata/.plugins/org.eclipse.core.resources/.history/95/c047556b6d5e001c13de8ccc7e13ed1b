@@ -1,0 +1,28 @@
+package com.example.User;
+import java.util.List;
+
+import dao.RegisterDao;
+import entity.Register;
+
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+//import com.fasterxml.jackson.annotation.JsonTypeInfo.As;
+
+@SpringBootApplication
+public class UserApplication {
+
+	public static void main(String[] args) {
+        RegisterDao registerDao = new RegisterDao();
+        Register register = new Register('1',"karthick", "v", "pvi","ngl","tn","india","male","8524025238","vkarthick4199@gmail.com","Karthi@33");
+        registerDao.saveStudent(register);
+
+        List < Register > register1 = registerDao.getStudents();
+        
+		
+	
+//		object s;
+		register1.forEach(s -> System.out.println(s.getLastname()));
+	}
+
+}

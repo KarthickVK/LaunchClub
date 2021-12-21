@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javax.mail.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javamail-dsn-1.4.2.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javamail-1.3.2.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javamail-1.3.3_01.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javamail-1.3.2.jar (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javamail-runtime-4.0.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javamail-runtime-4.0.jar (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javamail-runtime-4.0-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javamail-connector-4.0.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javamail-connector-4.0-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.5.0.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.6.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.5.0-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.6.jar (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.6-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.4-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.2-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.5-rc1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.4-rc1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.3-rc1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.3-rc1-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.6-rc1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.6-rc1-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-maven-plugin-0.9.0.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-maven-plugin-0.9.0-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.5.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.4.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.4.jar (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.4.3.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/smtp-1.3.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation.jar (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-jaf1.1.1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-2.2.1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-2.1.3.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1.1.jar (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1.1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1.1-hudson-1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1-rev-1.jar (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1-rev-1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1.0.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1-rev-1-sources.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1-osgi.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.0.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.0.2.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-0.x.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/activation-1.1.0.jar/activation-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/jar_files (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/aspose.slides-2.6.0.jar/aspose.slides-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/javax.servlet-3.0.0.v201112011016-sources.jar/javax.servlet-3.0.0.v201112011016-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KarthickV/Downloads/jar_files/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

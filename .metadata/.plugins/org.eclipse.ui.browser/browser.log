@@ -1,0 +1,20 @@
+
+Nov 24, 2021 10:48:35.120 NEW SESSION
+Nov 24, 2021 10:48:35.120 [18240:12720:1124/104835.118:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Nov 24, 2021 10:48:35.120 [18240:12720:1124/104835.118:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+Nov 24, 2021 10:48:35.121 [18240:12720:1124/104835.118:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Nov 24, 2021 10:48:35.121 [18240:12720:1124/104835.119:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Nov 24, 2021 10:48:35.125 [18240:15448:1124/104835.124:ERROR:device_event_log_impl.cc(214)] [10:48:35.124] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 24, 2021 10:48:35.125 [18240:15448:1124/104835.125:ERROR:device_event_log_impl.cc(214)] [10:48:35.125] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 24, 2021 10:48:37.513 [18240:15448:1124/104837.513:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Nov 24, 2021 11:01:56.476 [18240:15448:1124/110156.475:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Nov 24, 2021 17:01:12.821 NEW SESSION
+Nov 24, 2021 17:01:12.821 [21128:13384:1124/170112.820:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Nov 24, 2021 17:01:12.822 [21128:13384:1124/170112.820:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+Nov 24, 2021 17:01:12.822 [21128:13384:1124/170112.820:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Nov 24, 2021 17:01:12.822 [21128:13384:1124/170112.820:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+Nov 24, 2021 17:01:12.823 [21128:10264:1124/170112.823:ERROR:device_event_log_impl.cc(214)] [17:01:12.823] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 24, 2021 17:01:12.823 [21128:10264:1124/170112.823:ERROR:device_event_log_impl.cc(214)] [17:01:12.823] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 24, 2021 17:25:05.75 [21128:10264:1124/172505.074:ERROR:device_event_log_impl.cc(214)] [17:25:05.074] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Nov 24, 2021 19:30:09.230 [21128:10264:1124/193009.230:ERROR:gpu_process_host.cc(967)] GPU process exited unexpectedly: exit_code=-1073740791

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<classpath>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/annotations-api.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="https://jakarta.ee/specifications/annotations/2.0/apidocs/jakarta.annotation/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/catalina-ant.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/catalina-ha.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/catalina-ssi.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/catalina-storeconfig.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/catalina-tribes.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/catalina.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/ecj-4.20.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/el-api.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="https://jakarta.ee/specifications/expression-language/4.0/apidocs/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/jakartaee-migration-1.0.0-shaded.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/jasper-el.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/jasper.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/jaspic-api.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="https://jakarta.ee/specifications/authentication/2.0/apidocs/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/jsp-api.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="https://jakarta.ee/specifications/pages/3.0/apidocs/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/servlet-api.jar" runtime-id="Apache Tomcat v10.0" source-attachment-path="/Devi">
+    <attribute name="javadoc_location" value="https://jakarta.ee/specifications/servlet/5.0/apidocs/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-api.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-coyote.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-dbcp.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-i18n-cs.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-i18n-de.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-i18n-es.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-i18n-fr.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-i18n-ja.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-i18n-ko.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-i18n-pt-BR.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-i18n-ru.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-i18n-zh-CN.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-jdbc.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-jni.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-util-scan.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-util.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/tomcat-websocket.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="http://tomcat.apache.org/tomcat-10.0-doc/api/"/>
+  </source-attachment>
+  <source-attachment entry="C:/Users/KarthickV/Downloads/apache-tomcat-10.0.12/apache-tomcat-10.0.12/lib/websocket-api.jar" runtime-id="Apache Tomcat v10.0">
+    <attribute name="javadoc_location" value="https://jakarta.ee/specifications/websocket/2.0/apidocs/"/>
+  </source-attachment>
+</classpath>
